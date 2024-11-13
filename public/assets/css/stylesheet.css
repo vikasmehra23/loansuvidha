@@ -1,0 +1,3386 @@
+/* personal loan css start  */
+/* css work aliyasa */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* //////////////////////////// SWP PAGE CSS //////////////////// */
+
+section.third._home_lone_e {
+    padding: 66px 0px !important;
+}
+
+.main_third_box.suvidha_a p {
+    font-size: 14px;
+}
+
+.main_second_session.lone_home_a {
+    padding: 1px !important;
+}
+
+.main_third_box.suvidha_a p {
+    padding: 6px 0;
+    text-align: center;
+}
+
+.benefits_buy_insur_ {
+    padding: 0px 0px 80px 0px !important;
+}
+
+.row.interest_s {
+    align-items: center;
+}
+
+section.interest_rate {
+    background: #e66d12;
+    padding: 70px 0px;
+}
+
+.sec-title.home_trust h2 {
+    color: white;
+}
+
+.work_icon.new_icon_app img {
+    background: #ffffff;
+}
+
+.bg_ox {
+    background: white;
+}
+
+section.Insurance_box-general.Insurance__n {
+    margin-top: 70px;
+}
+
+.what_health_insur {
+    padding: 50px 0px;
+}
+
+section.how_does {
+    padding: 60px 0px;
+}
+
+.general_table_sec {
+    padding: 80px 0px 0;
+}
+
+.general_table_sec {
+    background-color: #e66d12;
+    padding: 80px 0px;
+}
+
+
+.main_third_boxs {
+    padding-bottom: 40px;
+}
+
+.diff_life_general_insur h4 {
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.documents_requireds_health_sec {
+    padding: 0px 0px 50px 0px;
+}
+
+.documents_requireds h4 {
+    margin-bottom: 8px;
+    font-size: 30px;
+    color: #e66d12;
+    font-weight: 600;
+    line-height: 37px;
+}
+
+ul.documents_requireds_li li {
+    line-height: 32px;
+    font-size: 17px;
+    list-style: disc;
+}
+
+.documents_requireds p {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+ul.documents_requireds_li {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+/* .helth_benifits.new_benifist_a {
+    height: unset;
+} */
+
+p.lone_suvidha_p {
+    text-align: justify !important;
+}
+
+.main_Session {
+    background: white;
+}
+
+
+section.benefits_buying_insur.key_bene {
+    padding: 80px 0px;
+}
+
+section.benefits_buying_insur.new_buying_insur {
+    padding: 80px 0px;
+}
+
+section.new_buying_insur.insur_a {
+    padding: 80px 0px;
+}
+
+.ul_li_main.onwards ul li:after {
+    content: "";
+    height: 10px;
+    width: 10px;
+    background: #ffffff;
+    position: absolute;
+    border-radius: 16px;
+    top: 8px;
+    left: 0;
+}
+
+section.multi_Sec.flexblie_box {
+    background: white !important;
+}
+
+.first_box.how_work.svg_img_text {
+    background: none !important;
+}
+
+.first_box.how_work.svg_img_text {
+    text-align: -webkit-center;
+}
+
+section.multi_Sec.flexblie_box .slick-slide {
+    margin-top: 25px !important;
+    height: 350px;
+}
+
+
+section.faq_Sec_main_Sec.pt-0.home_lone_acordiyan {
+    padding-top: 70px !important;
+}
+
+section.multi_Sec.flexblie_box {
+    padding-top: 51px;
+}
+
+.ul_li_main.onwards ul li p {
+    color: white;
+}
+
+.plan2024_stp_heading.mt-4.mb-4.text-center {
+    margin: 40px 0 40px 0 !important;
+}
+
+section.plan2024 h4 {
+    position: relative;
+}
+
+section.plan2024 h4:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+section.plan2024 h4:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 3s linear infinite;
+    animation: bar_dot 3s linear infinite;
+}
+
+section.plan2024 h4 {
+    max-width: 496px;
+    margin: auto;
+}
+
+
+
+section.available_in h3 {
+    position: relative;
+}
+
+section.available_in h3:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+section.available_in h3:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 3s linear infinite;
+    animation: bar_dot 3s linear infinite;
+}
+
+section.available_in h3 {
+    max-width: 248px;
+    margin: 0px auto 40px;
+}
+
+section.plan2024 h4 {
+    color: #e66d12;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.thankyou_pg_sec {
+    padding: 150px 0px 50px 0px;
+}
+
+.main_second_session {
+    padding: 0px 0px 20px 0px !important;
+}
+
+.table_elsss_hd {
+    text-align: center;
+}
+
+section.table_elss_sec p {
+    text-align: center;
+}
+
+.lumpsum_main_hd h1 {
+    font-size: 35px;
+    line-height: 55px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.lumpsum_main_bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: linear-gradient(0deg, rgb(107 107 107 / 59%), rgb(78 76 77 / 37%)), url(../img/Lumpsum_amount_bg.jpg);
+}
+
+p.theere {
+    text-align: center;
+    color: #4e4e4e;
+}
+
+.best_swp_loan h4 {
+    color: #e66d12 !important;
+    font-size: 25px !important;
+    font-weight: 600;
+    padding: 15px 0 0px 0 !important;
+}
+
+p.best_plan_p {
+    color: #000;
+}
+
+section.swp_plans {
+    margin: 50px 0 30px 0;
+    /* border: px solid #ff6a00; */
+    max-width: 1180px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 0 5px 0 #0000008a;
+}
+
+.best_swp_loan p {
+    line-height: 30px;
+    text-align: justify;
+}
+
+.why_choose_benefits_box p {
+    color: #707070;
+    font-size: 15px;
+}
+
+.why_choose_swp_heading p {
+    color: black;
+    font-size: 15px;
+    text-align: center;
+}
+
+.why_choose_swp_heading h4 {
+    color: #e66d12;
+    font-size: 30px;
+    text-align: center;
+    padding: 0 0 15px 0;
+    font-weight: 700;
+}
+
+.why_choose_swp_heading {
+    margin: 0 0 40px 0;
+}
+
+.features_off_sip_headind p {
+    color: rgb(92, 92, 92);
+    font-size: 15px;
+}
+
+.features_off_sip_headind h4 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.sip_plans.text-center p {
+    color: black;
+}
+
+.sip_plans.text-center:hover {
+    background-color: white !important;
+    box-shadow: 0px 0 10px 1px #e3e3e3;
+    transform: translateZ(10px);
+    transition: 1s;
+}
+
+.elss_main_bg_img {
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(0deg, rgb(107 107 107 / 59%), rgb(78 76 77 / 37%)), url(../img/elss_main_bg.jpg) !important;
+}
+
+
+.sip_plans.text-center h5 {
+    font-size: 20px;
+}
+
+.why_choose_benefits_box p {
+    line-height: 30px;
+    text-align: justify;
+}
+
+.why_choose_benefits_box h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+table.table.caption-top h4 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.available_in h3 {
+    font-size: 35px !important;
+    font-weight: 600;
+}
+
+p.theere {
+    max-width: 700px !important;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    padding: 20px 0 0 0;
+}
+
+/* //////////////////////////// SWP PAGE CSS //////////////////// */
+
+/* /////////////////// SIP PAGE CSS //////////////////// */
+
+.the_full_form_heading h4 {
+    padding: 0 0 25px 0;
+    color: #e66d12 !important;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.sip_plans.text-center h5 {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.sip_plans.text-center:hover {
+    background-color: white !important;
+    box-shadow: 0px 0 10px 1px #e3e3e3;
+    transform: translateZ(10px);
+    transition: 1s;
+}
+
+/* /////////////////// SIP PAGE CSS //////////////////// */
+
+/* section-1 */
+.Online-Personal-Loan {
+    padding: 180px 0px 120px 0px;
+    display: flex;
+    align-items: center;
+    height: auto;
+    height: auto;
+    background-image: linear-gradient(rgb(46 46 46 / 36%), rgb(0 0 0 / 47%)), url(../img/personal_img_ban.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+.onlineloneicons {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.fonticon {
+    height: 80px;
+    width: 80px;
+    font-size: 50px;
+    font-weight: 600;
+    background-color: white;
+    padding: 15px;
+    border-radius: 50%;
+    color: #e66d12;
+}
+
+section.Online-Personal-Loan p {
+    color: #fff;
+}
+
+section.online-personal-loan-2 p {
+    color: #000;
+    text-align: center;
+}
+
+/* .online-personal-loan-img{
+    display: flex;
+  
+    justify-content: space-around;
+} */
+
+.online-personal-img-1 img {
+    padding: 10px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+/* .online-personal-loan-img img{
+    
+    width: 80px;
+} */
+
+.online-personal-border {
+    height: 2px;
+    width: 250px;
+    border: 2px solid #171d24;
+}
+
+.online-personal-loan-contant {
+    font-family: sans-serif;
+    padding-top: 80px;
+
+}
+
+.online-personal-loan-contant h1 span {
+    color: #fff;
+    font-weight: bold;
+}
+
+.online-personal-loan-contant h2 {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.online-personal-border {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.online-personal-img-1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 120px;
+}
+
+.main-div {
+
+    height: 100%;
+    background: #80808029;
+
+
+
+}
+
+.Personal-Loan {
+    background: #e66d12;
+    border: #e66d12;
+}
+
+
+
+
+
+
+.Personal-Loan:hover {
+    background: #e66d12;
+    border: #e66d12;
+}
+
+
+
+.accordion-button:not(.collapsed) {
+    color: #e66d12;
+    background-color: #e66d12 !important;
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, .125);
+}
+
+/* 
+section.Online-Application-Process.background-img {
+    background-image: linear-gradient(rgb(0 0 0 / 75%), rgb(0 0 0 / 76%)), url(../img/g.jpg);
+    background-attachment: fixed;
+    background-position: center;
+} */
+section.last-section {
+    background-image: linear-gradient(rgb(0 0 0 / 75%), rgb(0 0 0 / 76%)), url(../img/g.jpg);
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+
+.main-div:hover {
+    background: #e66d12;
+}
+
+.main-div:hover img {
+    background: white;
+}
+
+
+.main-div:hover p {
+    color: white;
+}
+
+.main-div:hover .head1 {
+    color: white;
+}
+
+.online-personal-img-1 p {
+    color: #171d24;
+    margin-top: 5px;
+
+}
+
+.online-personal-loan-btn-1 {
+
+    margin-bottom: 30px;
+
+}
+
+.online-personal-loan-btn-1 button {
+    padding: 15px 60px 15px 60px;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    border-radius: 6px;
+    background-color: #e66d12;
+    color: white;
+    font-weight: 600;
+}
+
+.online-personal-loan-btn-1 button:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+.online-personal-loan-btn-1 .btn-check:focus+.btn-primary,
+.btn-primary:focus {
+    color: #000;
+    background-color: #fff;
+    border-color: #fff;
+    box-shadow: 1px 0px 0 0rem rgba(255, 255, 255, 0.5);
+}
+
+.online-personal-loan-img-2 img {
+    margin-top: 65px;
+    border-radius: 15px;
+}
+
+.sectio-1-icon {
+    width: 70px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+
+.online-lone-paragraph {
+    text-align: justify;
+    color: #000;
+    text-align: center;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.why_is_box p {
+    font-size: 15px;
+}
+
+.why_is_box h4 {
+    color: #e66d12;
+}
+
+
+/* section-2 */
+
+
+
+.online-personal-loan-icon {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.icon-1 img {
+
+    width: 120px;
+    border: 1px solid #e66d12;
+    padding: 15px;
+    border-radius: 50%;
+}
+
+.online-personal-loan-2 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.online-personal-loan-2-tittle h1 span {
+    color: #e66d12;
+    font-weight: bold;
+}
+
+.online-personal-loan-heading-2 {
+    margin-top: 10px;
+}
+
+.online-personal-loan-icon {
+    margin-top: 20px;
+}
+
+/* scetion-3 */
+
+.Online-Application-Process {
+    background-color: #fff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-family: sans-serif;
+}
+
+.Online-Application-Process-heading {
+    text-align: center;
+}
+
+.Online-Application-Process-heading h2 {
+    font-weight: 600;
+    color: #e66d12;
+    position: relative;
+}
+
+
+.Online-Personal-Loans-Funding-heading h2 span {
+    color: #e66d12;
+}
+
+.Online-Personal-Loans-Funding-heading h2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: -17px;
+}
+
+.online-Application-process-list ul li {
+    list-style: none;
+    margin-top: 15px;
+    font-weight: 545;
+    color: #000;
+}
+
+.online-Application-process-list ul li span {
+    margin-left: 10px;
+}
+
+.online-Application-img img {
+    width: 100%;
+}
+
+.lone_home_W img {
+    filter: invert(1) !important;
+}
+
+section.eligibility_home {
+    padding: 60px 0;
+}
+
+section.third._home_lone_e.suvidha_in {
+    background: #e66d12;
+}
+
+.main_third_box.suvidha_a h2 {
+    color: white;
+}
+
+ul.fa_slode_checking.apply_h li:before {
+    content: "";
+    height: 10px;
+    width: 10px;
+    background: #ffffff;
+    position: absolute;
+    border-radius: 16px;
+    top: -1px;
+    left: -6px;
+}
+
+.first_box.how_work.svg_img_text h3 {
+    margin-top: 18px;
+}
+
+button.btn.btn-primary.home_lone_btn {
+    background: white;
+    color: #e66d12;
+}
+
+ul.fa_slode_checking.apply_h li {
+    color: white;
+}
+
+ul.fa_slode_checking.apply_h h2 {
+    color: white;
+}
+
+table.table_personal.home_loan_tebal td {
+    color: black;
+    border: 1px solid;
+    font-size: 15px;
+    padding: 15px;
+}
+
+section.how_it_work {
+    padding: 70px 0px;
+}
+
+.row.mt-5.btn_main_div.vihical_lone_c {
+    text-align: center;
+}
+
+p.text_vi {
+    text-align: justify;
+}
+
+table.dcf-table.table_main_Ahead th {
+    color: white !important;
+}
+
+table.dcf-table.table_main_Ahead th {
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+table.dcf-table.table_main_Ahead td {
+    color: white !important;
+    border: 1px solid white !important;
+}
+
+table.table_personal.home_loan_tebal {
+    margin-top: 40px;
+}
+
+.home_loan_tebal th {
+    color: black;
+    border: 1px solid;
+    padding: 3px;
+}
+
+
+h2.creiter {
+    color: #e66d12 !important;
+    text-align: center;
+}
+
+.ul_li_main.onwards.eligibil_p ul li p {
+    color: black !important;
+}
+
+.ul_li_main.onwards.eligibil_p ul li:after {
+    content: "";
+    height: 10px;
+    width: 10px;
+    background: #e66d12;
+    position: absolute;
+    border-radius: 16px;
+    top: 8px;
+    left: 0;
+}
+
+.ul_li_main.onwards ul li p {
+    color: white !important;
+}
+
+p.lone_suvidha_p {
+    color: white !important;
+}
+
+
+
+.fa-check {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.online-personal-loan-btn {
+    text-align: center;
+    background-color: #e66d12;
+    color: white;
+    font-family: sans-serif;
+    padding-bottom: 5px;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.online-personal-loan-btn button {
+    border: 0;
+    outline: 0;
+    background: #e66d12;
+    font-size: 25px;
+    font-weight: 500;
+    background-color: transparent;
+    color: white;
+}
+
+.online-personal-loan-btn:hover {
+    background-color: #ee7e28;
+}
+
+.online-personal-loan-btn button:hover {
+    background-color: transparent;
+}
+
+
+
+.Online-Personal-Loans-Funding {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.online-personals-lonans-icons {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.img-icon-1 p a {
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+
+.img-icon-1 p a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+
+
+.img-1 {
+    width: 150px;
+}
+
+
+.loan-img {
+    width: 100px;
+    border: 1px solid #e66d12;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+
+/* personal loan css end   */
+
+
+/* vehicle load css start */
+
+
+.better_icon {
+    background: #fff;
+    padding: 16px;
+    border-radius: 58px;
+}
+
+.better_icon img {
+    /* max-width: 80px;
+    color: white;
+    background: white;
+    border-radius: 100px; */
+    height: 50px;
+    width: 50px;
+}
+
+.better_all {
+    align-items: center;
+    display: flex;
+    gap: 15px;
+    height: 100%;
+}
+
+.better_two {
+    align-items: center;
+    display: flex;
+    gap: 15px;
+    height: 100%;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 10px 0;
+}
+
+.Better_then {
+    height: 100%;
+}
+
+.better_three {
+    align-items: center;
+    display: flex;
+    gap: 15px;
+    height: 100%;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 10px 0;
+}
+
+.better_four {
+    align-items: center;
+    display: flex;
+    gap: 15px;
+    height: 100%;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 10px 0;
+}
+
+section.Online_loan {
+    text-align: center;
+    padding: 40px 0 40px 0;
+}
+
+.online_loan_cnt h3 {
+    color: #e66d12;
+    font-size: 35px;
+}
+
+.online_loan_cnt p {
+    text-align: center;
+    color: #000000;
+    font-size: 17px;
+    padding: 10px 0 0 0;
+}
+
+.better_all {
+    background-color: #000000;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 10px 0;
+}
+
+.better_two {
+    background-color: #e66d12;
+    padding: 10px 10px 10px 10px;
+}
+
+.better_three {
+    background-color: #e66d12;
+    padding: 10px 10px 10px 10px;
+}
+
+.better_four {
+    background-color: #000000;
+    padding: 10px 10px 10px 10px;
+}
+
+/* .better_text h3,
+p {
+    color: white;
+} */
+
+
+
+
+
+.funding_to_loan {
+    background-image: url(./image/banner_text.jpg);
+    object-fit: cover;
+    background-position: bottom;
+}
+
+.funding_cnt p {
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.funding_cnt {
+    text-align: center;
+}
+
+section.funding_to_loan {
+    margin: 40px 0 40px 0;
+    padding: 30px 0 30px 0;
+}
+
+
+
+
+
+.work_icon img {
+    max-width: 70px;
+    filter: invert(1);
+    background-color: orange;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.how_work_box {
+    text-align: center;
+}
+
+.how_work_box {
+    margin: 40px 0 40px 0;
+    background-color: #fd6f6f08;
+    padding: 40px 0 30px 0;
+    height: 350px;
+    box-shadow: 0px 0px 6px 1px #26262647;
+    border-radius: 7px;
+}
+
+/* .how_work_box:hover .work_box_cnt h3 {
+    color: #fff;
+}
+
+.how_work_box:hover .work_box_cnt p {
+    color: #fff;
+} */
+
+.how_work_box:hover.simple_work_u h3 {
+    color: #fff !important;
+}
+
+.how_work_box:hover.simple_work_u p {
+    color: #fff !important;
+}
+
+.work_icon {
+    margin-bottom: 20px;
+}
+
+.life_term_li {
+    margin-bottom: 15px;
+}
+
+.work_box_cnt {
+    padding: 0px !important;
+}
+
+.about-section {
+    padding: 50px 0px !important;
+}
+
+.table_elsss_hd {
+    font-weight: 600;
+    color: #e66d12;
+    font-size: 36px;
+    line-height: 36px;
+    margin-bottom: 13px;
+}
+
+.work_box_cnt h3 {
+    color: #e66d12 !important;
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 0 0 0;
+}
+
+.work_box_cnt p {
+    text-align: justify;
+    font-size: 15px;
+    color: #404040;
+}
+
+.how_work_cnt h3 {
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.how_work_cnt p {
+    font-size: 16px;
+    color: black;
+}
+
+.how_work_box:hover {
+    background-color: #e66d12;
+    transform: translateZ(10px);
+    transition: 1.2s;
+}
+
+.how_work_cnt {
+    text-align: center;
+}
+
+
+.eligibility_heading h3 {
+    font-size: 35px;
+    font-weight: 600;
+    color: #e66d12;
+}
+
+.eligibility_heading {
+    text-align: center;
+}
+
+.eligibility {
+    background-image: linear-gradient(0deg, rgb(48 47 47 / 89%), rgb(15 0 0)), url(./image/bike_background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 40px 0 40px 0;
+    padding: 0 0 40px 0;
+}
+
+.col-md-6 li {
+    list-style: none;
+}
+
+.eligibility_li {
+    display: flex;
+    gap: 15px;
+}
+
+.eligibility_li i {
+    padding: 5px 0 0 0;
+    color: #e66d12;
+}
+
+.eligibility_cnt h3 {
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 40px 0 20px 0;
+}
+
+.eligibility_heading {
+    padding: 40px 0 40px 0;
+}
+
+/* vehicle load css end */
+
+
+/* mutual-fund css start */
+
+
+
+
+
+section.mutual-fund {
+    background-image: url(../img/mfi_bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 120px 0px;
+    background-size: cover;
+}
+
+.main_heading_titel h1 {
+    color: white;
+    font-size: 54px;
+    font-weight: 700;
+    padding: 30px 0px;
+}
+
+.main_box_daily {
+    display: flex;
+    gap: 50px;
+    justify-content: flex-end;
+}
+
+.media.p-2.card_box {
+    display: flex;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.media.p-2.card_box:hover {
+    transform: translateY(-10px);
+    transition: 0.3s;
+}
+
+.row.center_box {
+    align-items: center;
+}
+
+section.mutual-fund_second_box {
+    padding: 80px 0px;
+}
+
+.media.p-2.card_box {
+    display: flex;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    align-items: center;
+}
+
+.media-body.ps-3 h4 a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: #0d4caf;
+}
+
+.row.cebter._box_aa {
+    text-align: center;
+}
+
+.card_box_lone_a {
+    padding: 25px;
+    background: #094197;
+    color: white;
+    border-radius: 4px 30px 4px 30px;
+    transition: 0.3s;
+    margin: 16px;
+}
+
+.card_box_lone_a:hover {
+    border-radius: 30px 4px 30px 4px;
+    transition: 0.3s;
+}
+
+section.search-ends {
+    background: #ebebeb;
+    padding: 43px 0;
+}
+
+.your_search {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .main_box_daily {
+        gap: 8px;
+    }
+
+
+    .unloacking_main_div {
+        padding: 50px 0px !important;
+    }
+
+    section.mutual-fund {
+        padding: 26px 0px;
+
+    }
+
+    .main_heading_titel h1 {
+
+        font-size: 37px;
+    }
+
+    .media-body.ps-3 h4 a {
+
+        font-size: 20px;
+
+    }
+}
+
+/* mutual fund css end */
+
+
+/* property sale css start */
+
+.why_is_box-general {
+    height: 100%;
+    padding: 25px;
+    text-align: center;
+    box-shadow: 0px 0px 5px 1px #00000030;
+    border-radius: 7px;
+    background: #e66d12;
+}
+
+.why_is_box-general p {
+    color: rgb(255, 255, 255);
+}
+
+.helth_benifits_heading h3 {
+    font-weight: 600;
+    color: #e66d12;
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: -4px;
+}
+
+.happy_family_img-general img {
+    height: 380px;
+    object-fit: cover;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.loan-input label {
+    color: rgb(22, 20, 20);
+}
+
+.main_col {
+    height: 100% !important;
+    background: #ffffffb8;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.wht_health_insur h2 {
+    color: #e66d12 !important;
+}
+
+.invest_txt h3 {
+    color: #e66d12;
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 20px;
+}
+
+.wht_health_insur h2 {
+    margin-bottom: 30px !important;
+}
+
+.loan-form-page {
+    padding-top: 160px;
+    padding-bottom: 100px;
+    /* background-image: linear-gradient(rgb(250 247 247), #cae8f2), url(./Images/bannerimg-2.webp) !important; */
+    background-image: url('./Images/bannerimg-2.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cae8f2;
+}
+
+section.loan-form-page label {
+    margin-bottom: 10px;
+}
+
+.loan-page-heading h1 {
+    font-size: 39px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.loan-page-heading h1 span {
+    color: #e66d12;
+}
+
+.loan-page-text p {
+    font-size: 19px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.loan-page-btn button {
+    padding: 15px 40px 15px 40px;
+    border: 0;
+    outline: 0;
+    border-radius: 25px;
+    background-color: #e66d12;
+    font-weight: 600;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.loan-page-btn button:hover {
+    background-color: #e66d12;
+}
+
+.property-status {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.purchase-card {
+    background-color: #FFFFFF;
+    padding: 15px 15px 15px 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    transition: all 1s ease-in-out;
+    cursor: pointer;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.contactus_fill_form h2 {
+    color: #e66d12;
+}
+
+.contact_fr_hd p {
+    color: #e66d12 !important;
+}
+
+.need_helpm h2 {
+    color: #e66d12 !important;
+}
+
+.fill_fromimp h5 {
+    font-size: 25px;
+    font-weight: 600;
+    color: #e66d12;
+    padding: 15px 0px 15px 15px;
+}
+
+.fill_fromimp {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.purchase-card:hover {
+    transform: scale(1.1);
+}
+
+.prop-img {
+    width: 100%;
+    max-height: 180px;
+    object-fit: cover;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.Property-sale-and-purchase {
+    padding: 50px 0px;
+}
+
+.property-sale-and-purchase-tittle {
+    text-align: center;
+    padding-bottom: 20px;
+    color: #e66d12;
+}
+
+.property-sale-and-purchase-tittle h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.property-status span {
+    font-size: 18px;
+    position: relative;
+    font-weight: 500;
+    top: 5px;
+    color: #e66d12;
+}
+
+.property-city-name {
+    align-items: center;
+    display: flex;
+    height: 100%;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.property-city-name span {
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.purchase-sale-purchase-cities {
+    padding: 50px 0px;
+}
+
+.property-city-name:hover {
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.purchase-sale-purchase-cities-tittle {
+    padding-bottom: 20px;
+}
+
+.purchase-sale-purchase-cities-tittle h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.latest-img {
+    height: 140px;
+    width: 180px;
+    object-fit: cover;
+}
+
+.sip_plans.text-center {
+    height: 100%;
+}
+
+.latest-property-cards {
+    display: flex;
+    border: 1px solid rgb(214, 211, 211);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.property-details {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.property-name {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.property-area {
+    font-size: 13px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: gray;
+}
+
+.property-price {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.latest-property-project-tittle {
+    text-align: center;
+
+}
+
+.latest-property-project-tittle h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.latest-Property-project {
+    padding: 50px 0px;
+}
+
+.car_loansec {
+    padding: 50px 0px;
+}
+
+.car_loans_txt h2 {
+    font-weight: 600;
+    color: #e66d12;
+    font-size: 34px;
+    line-height: 36px;
+    margin-bottom: 13px;
+}
+
+.car_loans_img img {
+    width: 100%;
+    border-radius: 0px 50px;
+}
+
+.car_loans_txt p {
+    color: #000000;
+    text-align: justify;
+    line-height: 27px;
+}
+
+.get_the_sol_sec {
+    padding: 80px 0px 46px;
+}
+
+.become_partner_hd {
+    margin-bottom: 20px;
+}
+
+.become_partner_txt h4 {
+    font-weight: 600;
+    color: #e66d12;
+    font-size: 26px;
+    line-height: 35px;
+    margin-bottom: 13px;
+
+}
+
+.become_partner_main p {
+    color: black;
+    line-height: 25px;
+}
+
+.become_partner_hd h2 {
+    color: #e66d12;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 36px;
+    margin-bottom: 20px;
+}
+
+.become_partner_img {
+    text-align: center;
+}
+
+.become_partner_img video {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px;
+}
+
+.become_our_part_sec {
+    padding: 30px 0px;
+}
+
+.become_our_part h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.become_our_part_text h5 {
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #e66d12;
+}
+
+.become_our_part_text p {
+    color: black;
+}
+
+.become_our_part_text {
+    padding: 20px 10px 20px 10px;
+}
+
+.become_our_part_main img {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.become_our_part_main img {
+    width: 100%;
+    max-height: 180px;
+    object-fit: cover;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.become_our_part {
+    padding-bottom: 20px;
+}
+
+.become_our_part_main {
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px #00000029;
+    border: 1px solid #d9d6d6e3;
+}
+
+.who_can_become_part {
+    padding: 30px 0px;
+}
+
+.become_partner_eligibility {
+    padding: 30px 0px;
+}
+
+.eligibilty_Criteria_part {
+    gap: 10px;
+    height: 100%;
+    box-shadow: 0px 0px 10px -3px;
+    border-radius: 5px;
+    padding: 25px;
+    background-color: white;
+}
+
+.eligibilty_Criteria_part_img img {
+    width: 50px;
+}
+
+.loan_agent_partner_hd h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.loan_agent_partner_prt p {
+    height: 100%;
+    box-shadow: 0px 0px 10px -3px;
+    border-radius: 5px;
+    padding: 25px;
+    background-color: white;
+}
+
+.loan_agent_partner {
+    padding: 30px 0px;
+}
+
+.loan_agent_partner_txt p {
+    color: black;
+    line-height: 27px;
+}
+
+.loan_agent_partner_txt {
+    padding: 15px 0px;
+}
+
+.helpclient_loan h4 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.helpclient_loan {
+    margin: 0px 0px 18px 0px;
+}
+
+.become_partner_bg_img {
+    background-image: linear-gradient(rgb(46 46 46 / 91%), rgb(0 0 0 / 16%)), url(../img/become_a_part_bg.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 160px 0px 80px 0px;
+    background-repeat: no-repeat;
+}
+
+.become_partner_main_hd h1 {
+    color: white;
+}
+
+.certificates_main_bg {
+    padding: 60px 0px;
+    background-image: url(../img/certificates_bg_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.certificates_main_part img {
+    object-fit: contain;
+    width: 100%;
+    height: 165px;
+    background-color: white;
+}
+
+.certificates_main_title h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.certificates_main_title {
+    padding-bottom: 12px;
+}
+
+.certificates_main_title {
+    text-align: center;
+    max-width: 210px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.certificates_main_title h2 {
+    position: relative;
+}
+
+.certificates_main_title h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.certificates_main_title h2:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+
+
+.certificates_main_titles h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.certificates_main_titles {
+    padding-bottom: 12px;
+}
+
+.certificates_main_titles {
+    text-align: center;
+    max-width: 333px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.certificates_main_titles h2 {
+    position: relative;
+}
+
+.certificates_main_titles h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.certificates_main_titles h2:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+.copyright-text p a {
+    color: #e66d12;
+}
+
+.copyright-text p a:hover {
+    font-weight: 500;
+    color: #e66d12 !important;
+    text-decoration: underline;
+}
+
+
+
+/* .section-title {
+    max-width: 763px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.section-title h2 {
+    position: relative;
+}
+
+.section-title h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 500px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.section-title h2:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+} */
+
+
+.loan_form_page_bg {
+    background-image: linear-gradient(0deg, rgb(107 107 107 / 59%), rgb(78 76 77 / 37%)), url(../img/Property_loan_bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.online-personal-loan-2-tittle h1 span {
+    max-width: 763px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.online-personal-loan-2-tittle h1 span {
+    position: relative;
+}
+
+.online-personal-loan-2-tittle h1 span:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.online-personal-loan-2-tittle h1 span:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+
+
+.online-personal-loan-2-tittle h1 span {
+    max-width: 763px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.online-personal-loan-2-tittle h1 span {
+    position: relative;
+}
+
+.online-personal-loan-2-tittle h1 span:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.online-personal-loan-2-tittle h1 span:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+
+
+
+
+.doyou_wantto_heading h2 {
+    max-width: 563px;
+    margin: 0 auto;
+    margin-bottom: 55px;
+}
+
+.doyou_wantto_heading h2 {
+    position: relative;
+}
+
+.doyou_wantto_heading h2:before {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.support_heading h2 {
+    line-height: 25px;
+    color: #fff !important;
+    /* font-size: 14px !important; */
+}
+
+.doyou_wantto_heading h2:after {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+
+
+
+.become_our_part h2 {
+    max-width: 848px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.become_our_part h2 {
+    position: relative;
+}
+
+.become_our_part h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.become_our_part h2:after {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+.become_our_part_process h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.become_our_part_process {
+    padding-bottom: 20px;
+}
+
+.hw_become_our_part h2 {
+    text-align: center;
+    color: #e66d12;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.hw_become_our_part {
+    padding-bottom: 20px;
+}
+
+
+
+
+.become_partner_hd h2 {
+    max-width: 781px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.become_partner_hd h2 {
+    position: relative;
+}
+
+.become_partner_hd h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.become_partner_hd h2:after {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+h2.jaypee_txt {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 22px;
+}
+
+h6.perre {
+    line-height: 26px;
+}
+
+.properly_ghghh {
+    padding: 0 0 80px 0;
+}
+
+.become_partner_hdddd h2 {
+    max-width: 941px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+section.main_About_two_bot {
+    margin-bottom: 0px;
+}
+
+.become_partner_hdddd h2 {
+    color: #e66d12;
+    margin-bottom: 31px;
+}
+
+.become_partner_txt ol li {
+    list-style: auto;
+}
+
+.modal-dialog form input {
+    margin-bottom: 13px;
+}
+
+.modal-dialog form select.form-select {
+    margin-top: 10px;
+}
+
+
+
+
+.property-sale-and-purchase-tittle h2 {
+    max-width: 515px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.property-sale-and-purchase-tittle h2 {
+    position: relative;
+}
+
+.property-sale-and-purchase-tittle h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.property-sale-and-purchase-tittle h2:after {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+
+.purchase-sale-purchase-cities-tittle h2 {
+    max-width: 605px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.purchase-sale-purchase-cities-tittle h2 {
+    position: relative;
+}
+
+.purchase-sale-purchase-cities-tittle h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.purchase-sale-purchase-cities-tittle h2:after {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+
+
+.latest-property-project-tittle h2 {
+    max-width: 505px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.latest-property-project-tittle h2 {
+    position: relative;
+}
+
+.section-title h1 {
+    font-size: 41px;
+    line-height: 55px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.latest-property-project-tittle h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.latest-property-project-tittle h2:after {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+.Online-Application-Process-heading h2 {
+    max-width: 415px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.plan_india_heading h1 {
+    color: #ffffff;
+    font-size: 32px;
+    line-height: 47px;
+}
+
+.become_partner_main_hd h1 {
+    font-size: 41px;
+    line-height: 55px;
+    margin-bottom: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.section-title h2 {
+    color: #e66d12 !important;
+}
+
+.Online-Application-Process-heading h2:before {
+    position: absolute;
+    content: "";
+    background: #e66d12;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+/* .life_insur_marque img {
+    min-height: unset !important;
+    object-fit: unset !important;
+    background-color: #ffffff;
+} */
+
+.health_insur_marque_ img {
+    min-height: 115px !important;
+    background-color: #ffffff;
+}
+
+.Online-Application-Process-heading h2:after {
+    position: absolute;
+    content: "";
+    background: #fff;
+    width: 10px;
+    height: 3px;
+    left: 0;
+    bottom: -12px;
+    border-radius: 0;
+    -webkit-animation: bar_dot 4s linear infinite;
+    animation: bar_dot 4s linear infinite;
+}
+
+.image {
+    text-align: center;
+}
+
+.image i {
+    width: 50px;
+}
+
+.bg_disapply {
+    padding: 80px 0px 0px 0px !important;
+}
+
+.bg_disable {
+    padding: 80px 0px 80px 0px;
+}
+
+.loan_suvidha_sip {
+    background-image: linear-gradient(rgb(46 46 46 / 91%), rgb(0 0 0 / 16%)), url(../img/sip_invvesting.jpg) !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.col-textt h3 {
+    line-height: 25px;
+}
+
+.doc_requ {
+    border: 3px solid #e66d12;
+    border-radius: 10px;
+    padding: 15px 10px 15px 35px;
+}
+
+.col-imgg img {
+    object-fit: contain;
+    background: #fff;
+    border-radius: 9px;
+    padding: 10px;
+}
+
+.img_Session img {
+    width: 100%;
+    aspect-ratio: 1/0.7 !important;
+    /* max-width: 200px; */
+}
+
+.img_loan_under img {
+    width: 100%;
+    max-width: 466px;
+    margin-top: 25px;
+}
+
+.why_is_box-general h4 {
+    color: #e66d12 !important;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.happy_family_text h3 {
+    font-weight: 600;
+    color: #e66d12;
+    font-size: 36px;
+    line-height: 40px;
+    margin-bottom: 13px;
+}
+
+.car_loans_txt {
+    padding-left: 40px;
+}
+
+/* .happy_family_text {
+    padding-right: 40px;
+} */
+
+.vehicle_insurance_loan {
+    padding-right: 40px;
+}
+
+
+.lumpsum_calc_sec {
+    padding: 50px 0px;
+}
+
+.lumpsum_calculat_hd h2 {
+    font-weight: 600;
+    color: #e66d12;
+    font-size: 36px;
+    line-height: 36px;
+    margin-bottom: 13px;
+}
+
+ul.lumpsum_calculat_list li {
+    line-height: 30px;
+    list-style: disc;
+    font-size: 18px;
+}
+
+ul.lumpsum_calculat_list {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.lumsum_calc_main {
+    border: 3px solid #e66d12;
+    border-radius: 10px;
+    padding: 15px 10px 15px 35px;
+}
+
+.advantages_of_lumpsum_calculat_sec {
+    background-color: #e66d12;
+    padding: 60px 0px;
+}
+
+.advantagess_loan_suvidha h2 {
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 36px;
+    line-height: 36px;
+    margin-bottom: 13px;
+}
+
+.lumpsum_calculat_lists li {
+    color: #ffffff;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.advantagess_loan_suvidha {
+    padding-bottom: 10px;
+}
+
+.advantagess_loan_suvidha p {
+    color: #ffffff;
+}
+
+.elss_hd_p p {
+    text-align: left;
+    color: #ffffff !important;
+}
+
+.blog_video .slick-next {
+    display: none !important;
+}
+
+.loan_blogs_ {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0px 100px 0px;
+    background-image: linear-gradient(0deg, rgb(107 107 107 / 59%), rgb(78 76 77 / 37%)), url(../img/blogs_imgg.jpg);
+}
+
+.blogs_main_sec {
+    padding: 50px 0px;
+}
+
+.blogs_main {
+    border-radius: 10px;
+    border: 1px solid #b7b3b3;
+}
+
+.blogs_img_ img {
+    border-radius: 10px 10px 0px 0px;
+    height: 100%;
+    width: 100%;
+}
+
+section.faq_Sec_main_Sec .accordion-body {
+    border: 1px solid #0003;
+}
+
+.blogs_contents {
+    padding: 15px 10px 10px 10px;
+}
+
+.blogs_contents h6 {
+    margin-bottom: 5px;
+    color: #e66d12;
+    margin-bottom: 15px;
+}
+.blogs_contents p {
+    text-align: justify;
+}
+.btn_blog {
+    margin-top: 27px;
+    text-align: center;
+}
+.heading_of_blogs h1 {
+    color: white;
+}
+.btn_blog a.theme-btn {
+    padding: 0 18px;
+    font-size: 15px;
+    height: 38px;
+    line-height: 38px;
+}
+.blogs_bg_sec_ {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0px 100px 0px;
+    background-image: linear-gradient(0deg, rgb(107 107 107 / 59%), rgb(78 76 77 / 37%)), url(../img/blog_content_banner_.jpg);
+}
+
+.blogs_banner_bg h1 {
+    color: white;
+}
+
+.blogs_hd_img_ img {
+    border-radius: 10px 10px 0px 0px;
+    width: 100%;
+}
+
+
+.blogs_main_hd {
+    border-radius: 10px;
+}
+
+.blogs_content_sec {
+    padding: 50px 0px;
+}
+
+.blogs_hd_contents {
+    padding: 15px 0px 10px 0px;
+}
+
+.blogs_hd_img_ {
+    margin-bottom: 10px;
+}
+
+.under_elss_wrk img {
+    height: auto;
+    max-width: 100%;
+}
+
+.eligibily-sec .slide_box {
+    margin: 5px 5px !important;
+}
+
+.cnt_main_col {
+    margin-top: 30px;
+}
+
+.social-button {
+    justify-content: center;
+}
+
+.caption-top caption {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.caption-top caption {
+    text-align: left;
+    margin-top: 15px;
+    font-weight: 600;
+    color: #e66d12;
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+
+.iconnnn img {
+    margin-bottom: 10px;
+}
+
+.life_insurance_mrq img {
+    width: 100% !important;
+    object-fit: cover !important;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    padding: 10px !important;
+    height: 100px !important;
+}
+
+.under_txt_content p {
+    font-size: 23px !important;
+}
+
+/* .health_slider_slbutton.slick-next.slick-arrow {
+    background: transparent !important;
+} */
+.multi_Sec button.slick-next.slick-arrow {
+    background: transparent !important;
+}
+
+.why_is_box-general img {
+    padding-bottom: 12px;
+}
+
+
+@media(max-width: 991px) {
+
+    .under_elss_wrk {
+        margin-top: 18px;
+    }
+
+    section.swp_plans {
+        margin: auto 20px;
+    }
+
+    .main_how_does {
+        display: block;
+    }
+
+    section.second {
+        padding: 40px 0px;
+    }
+
+    section.features-sec {
+        padding: 40px 0px;
+    }
+
+    section.proper_main_top_Sec {
+        padding: 40px 0px;
+    }
+
+    .topr_buy_insurance_hd {
+        margin-bottom: 5px;
+        margin-top: 20px;
+    }
+
+    .eligibily-sec .slide_box {
+        margin: 5px 0px;
+        width: 100%;
+    }
+}
+
+@media(max-width: 767px) {
+
+    .need_btn {
+        text-align: center;
+    }
+
+    .invest_txt h2 {
+        height: unset !important;
+    }
+
+    .caption-top caption {
+        text-align: center;
+        margin-top: 15px;
+        font-weight: 600;
+        color: #e66d12;
+        margin-bottom: 5px;
+        font-size: 25px;
+    }
+
+    .cnt_main_col {
+        margin-top: 5px;
+    }
+
+
+    .online_loan_cnt h3 {
+        font-weight: 600;
+        line-height: 33px;
+        font-size: 25px;
+    }
+
+    .Online-Personal-Loans-Funding-heading h2 {
+        line-height: 33px;
+    }
+
+    .feature-card-widget-4 h5 {
+        font-size: 20px;
+    }
+
+    .get-touch-area .get-touch-box .icon i {
+        font-size: 20px;
+    }
+
+    .get-touch-area .get-touch-box {
+        gap: 10px;
+        align-items: baseline;
+    }
+
+    .become_partner_main_hd h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+
+    .become_partner_hdddd h2 {
+        line-height: 30px;
+        font-size: 27px;
+        margin-bottom: 15px;
+    }
+
+    .property-sale-and-purchase-tittle h2 {
+        font-weight: 600;
+        font-size: 27px;
+    }
+
+    section.lumpsum_main_bg {
+        padding: 151px 0px 0px 0px;
+    }
+
+    .lumsum_calc_main {
+        padding: 15px;
+    }
+
+    .lumpsum_calculat_hd h2 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+
+    .advantagess_loan_suvidha h2 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+
+    .section-title.elss_hd_p h1 {
+        line-height: 33PX;
+        font-size: 25px;
+        margin-bottom: 12px !important;
+    }
+
+    .work_box_cnt p {
+        text-align: center;
+    }
+
+    .sec-title h2 {
+        line-height: 30px;
+        font-size: 24px;
+    }
+
+    .why_choose_benefits_box h4 {
+        line-height: 28px;
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .why_choose_swp_heading h4 {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+
+    .why_choose_benefits_box {
+        margin-top: 15px;
+    }
+
+    .best_swp_loan p {
+        line-height: 27px;
+    }
+
+    section.proprty_main_Sec_im .main_banner span {
+        font-size: 35px;
+    }
+
+    section.eligibility_home .row {
+        flex-direction: column-reverse !important;
+    }
+
+    section.persnal-loan-sec h2 {
+        line-height: 30px;
+        font-size: 25px;
+    }
+
+    section.persnal-loan-sec {
+        padding: 40px 0;
+    }
+
+    section.the_full_form p {
+        line-height: 27px;
+    }
+
+    .plan_india_heading p {
+        line-height: 27px;
+    }
+
+    .plan_india_heading h1 {
+        line-height: 36PX;
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+
+    .main_btn_applys button.sip_na_btn {
+        padding: 12px 110px;
+    }
+
+    section.the_full_form h4 {
+        font-size: 25px;
+        line-height: 30px;
+        font-weight: 600;
+    }
+
+    .documents_requireds h4 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .features_off_sip_headind h4 {
+        font-size: 25px;
+        line-height: 32px;
+        font-weight: 600;
+    }
+
+    .doc_requ {
+        padding: 15px;
+    }
+
+    .contact_no h3 {
+        line-height: 25px;
+        color: #fff;
+        font-size: 11px;
+        margin-bottom: 0;
+    }
+
+    section.main_About_two_bot {
+        margin-bottom: 0px;
+    }
+
+    .about-section .content-column .text {
+        margin-bottom: 20px;
+    }
+
+    .about-section .content-column {
+        margin-bottom: 0px;
+    }
+
+    .eligibily-sec .slide_box {
+        margin: 5px 0px !important;
+    }
+
+    .hw_become_our_part h2 {
+        line-height: 33px;
+        font-size: 30px;
+    }
+
+    .loan_agent_partner_hd h2 {
+        line-height: 33px;
+        font-size: 25px;
+    }
+
+    .become_our_part_process h2 {
+        line-height: 33px;
+        font-size: 25px;
+    }
+
+    .become_our_part h2 {
+        line-height: 30px;
+        font-size: 24px;
+    }
+
+    .get_the_sol_sec {
+        padding: 40px 0px;
+    }
+
+    .advantages_of_lumpsum_calculat_sec {
+        padding: 40px 0px;
+    }
+
+    section.importent_term {
+        padding: 40px 0px;
+    }
+
+    section.how_does {
+        padding: 40px 0px;
+    }
+
+    section.how_it_work {
+        padding: 40px 0px;
+    }
+
+    .better_text h3 {
+        line-height: 30px;
+        font-size: 22px;
+    }
+
+    .bg_disable {
+        padding: 40px 0px !important;
+    }
+
+    section.slider_sec2 {
+        padding: 40px 0px !important;
+    }
+
+    section.proper_main_top_Sec {
+        padding: 40px 0px;
+    }
+
+    section.multi_Sec {
+        padding: 40px 0px !important;
+    }
+
+    li.li_list {
+        padding: 20px 0px 0px 0px;
+        text-align: center;
+    }
+
+    .main_second_session p {
+        font-size: 16px;
+    }
+
+    section.eligibility_home {
+        padding: 40px 0px;
+    }
+
+    .sec-title.home_trust h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    section.interest_rate {
+        padding: 40px 0px;
+    }
+
+    section.third._home_lone_e {
+        padding: 30px 0px !important;
+    }
+
+    section.cibil_score_main {
+        padding: 40px 0pc;
+    }
+
+    section.who_can_appli_ls {
+        padding: 40px 0px;
+    }
+
+    .what_health_insur {
+        padding: 40px 0px;
+    }
+
+    .bg_disables {
+        padding: 40px 0px !important;
+    }
+
+    section.testimonial_Sec_slicky {
+        padding: 40px 0px !important;
+    }
+
+    section.blog_video {
+        padding: 40px 0px;
+    }
+
+    .faq_Sec_main_Sec {
+        padding: 40px 0px !important;
+    }
+
+    .form_main_home {
+        padding: 40px 0px !important;
+    }
+
+    section.our_Services_sec {
+        padding: 40px 0px;
+    }
+
+    .benefits_buying_insur_online {
+        padding-bottom: 10px;
+    }
+
+    .why_invest_sec {
+        padding: 40px 0px !important;
+    }
+
+    .support_flx a {
+        font-size: 15px;
+        text-align: left;
+
+    }
+
+    .our_feature_Sec {
+        padding: 40px 0px;
+    }
+
+    .about-section {
+        padding: 40px 0px !important;
+    }
+
+    .banner-fact {
+        padding: 40px 0;
+    }
+
+    .nav_tab_main_sec {
+        padding: 40px 0px !important;
+    }
+
+    .feature-card-widget-9 {
+        padding: 20px 20px;
+    }
+
+    .section.nav_tab_main_sec {
+        padding: 40px 0px;
+    }
+
+    .main_slid_items p {
+        margin-bottom: 20px;
+    }
+
+    .Online-Personal-Loan {
+        padding: 100px 0px;
+    }
+
+    .blog_video .slick-dots {
+        width: 96% !important;
+    }
+
+    .modal-content img {
+        height: 100%;
+    }
+
+    .online-personal-loan-2-tittle.instant_s p {
+        width: 100%;
+    }
+
+    .main_btn_apply button {
+        padding: 16px 102px;
+        font-weight: 500;
+        font-size: 19px;
+    }
+
+    .section.our_Services_sec {
+        padding: 50px 0px;
+    }
+
+    .car_loans_txt h2 {
+        font-size: 25px;
+    }
+
+    .benefits_buying_insur_online ul {
+        padding: 10px;
+    }
+
+    /* .happy_family_text {
+        padding-right: 40px;
+    } */
+
+    .car_loans_txt {
+        padding: 0px;
+    }
+
+    .main_about_main .banner-content .section-title h1.wow.fadeInUp {
+        font-size: 35px !important;
+        line-height: 36px;
+    }
+
+    .main_banner h1 {
+        font-size: 35px !important;
+        line-height: 44px;
+    }
+
+    .main_banner span {
+        font-size: 31px;
+        color: black;
+    }
+
+    .btn_main_div button {
+        padding: 15px 15px;
+    }
+
+    section.new_buying_insur.insur_a {
+        padding: 30px 0px;
+    }
+
+    .topr_buy_insurance {
+        padding: 30px 0px;
+    }
+
+    .become_partner_hd h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .purchase-sale-purchase-cities-tittle h2 {
+        font-size: 27px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+
+    .table_elsss_hd {
+        font-size: 22px;
+        margin-bottom: 2px;
+    }
+
+    .lumpsum_main_hd h1 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+
+    .best_swp_loan h4 {
+        line-height: 27px;
+        font-size: 19px !important;
+    }
+
+    .tab-pane.fade {
+        padding: 13px 20px;
+    }
+
+    section.swp_plans {
+        padding: 9px;
+    }
+
+    section.plan2024 h4 {
+        font-size: 25px;
+    }
+
+    section.swp_plans {
+        margin: 15px;
+    }
+
+    .section.second {
+        padding: 50px 0px;
+    }
+
+    .wht_health_insur h2 {
+        font-size: 25px;
+    }
+
+    .topr_buy_insurance_hd h2 {
+        font-size: 25px;
+    }
+
+    .benefits_buying_insur_main h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .helth_benifits_heading h3 {
+        font-size: 25px;
+    }
+
+    .health_insur_main {
+        padding: 0px;
+    }
+
+    .why_it_is_cnt h4 {
+        line-height: 27px;
+        font-size: 25px;
+    }
+
+    .life_main_heading h1 {
+        font-size: 37px;
+    }
+
+    .online-Application-img {
+        text-align: center;
+        padding-top: 27px;
+    }
+
+    .online-Application-img img {
+        margin: 0px;
+    }
+
+    .Online-Personal-Loans-Funding-heading h1 {
+        line-height: 35px;
+        text-align: center;
+        font-weight: 600;
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+
+    .Online-Personal-Loans-Funding {
+        padding: 30px 0px;
+    }
+
+    .Online-Application-Process-heading h1 {
+        font-size: 30px;
+    }
+
+    .online-personal-loan-2-tittle h1 span {
+        font-size: 30px;
+    }
+
+    .smallbs_loan_heading h2 {
+        margin: 0px 0px 15px 0px;
+        font-weight: 600;
+        color: #e66d12;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .doyou_wantto_heading h2 {
+        padding: 0px;
+    }
+
+    .applybn_loan a {
+        padding: 8px 50px;
+    }
+
+    .quick_collateral h1 {
+        line-height: 33px;
+        font-size: 24px;
+    }
+
+    .main_second_session h2 {
+        line-height: 35px;
+        font-size: 23px;
+    }
+
+    .main_third_box p {
+        font-size: 18px;
+    }
+
+    section.fourth {
+        padding: 40px 0px;
+    }
+
+    .section-title h2 {
+        line-height: 28px;
+        font-size: 25px;
+        margin-bottom: 6px !important;
+        font-weight: 500;
+    }
+
+    .loan-page-heading h1 {
+        line-height: 33px;
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+
+    section.features_of_sip {
+        padding: 30px 0px !important;
+    }
+
+    section.Why_is_it {
+        padding: 30px 0;
+    }
+
+    .benefits_buying_insur {
+        padding: 40px 0px !important;
+    }
+
+    section.helth {
+        padding: 30px 0px;
+    }
+
+    .topr_buy_insurance_hd.main_text_a h2 {
+        font-size: 26px !important;
+        line-height: 33px;
+    }
+
+    .instant_personal {
+        padding: 30px 0px !important;
+    }
+
+    .Online-Application-Process {
+        padding: 30px 0px;
+    }
+
+    section.become_partner_bg_img .form-select {
+        font-size: 14px !important;
+        font-weight: 500 !important;
+        color: #212529b8 !important;
+    }
+    .blogs_banner_bg h1 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+}
+
+@keyframes bar_dot {
+    from {
+        left: -10px;
+    }
+
+    to {
+        left: 100%;
+    }
+}
+
+@media(max-width: 567px) {
+
+    section.about-section.main_About_two_bot {
+        margin-bottom: 0 !important;
+    }
+
+
+    .life_insur_marque img {
+        min-height: unset !important;
+        object-fit: unset !important;
+        background-color: #ffffff;
+    }
+
+    .title_2 h2 {
+        font-size: 27px;
+    }
+
+    section.main_About_two_bot {
+        margin-bottom: 60px;
+    }
+
+    header.header {
+        margin-top: 45px !important;
+    }
+
+    .support_heading h2 {
+        font-size: 13px !important;
+    }
+
+    .become_partner_main_hd H1 {
+        text-align: center !important;
+    }
+
+
+}
+
+/* property sale css end */
